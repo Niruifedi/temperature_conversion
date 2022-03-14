@@ -1,0 +1,1 @@
+This directory contains script on how to convert the temperature from Farenheit to Celsius.
